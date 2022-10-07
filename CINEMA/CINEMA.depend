@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1662054192 source:c:\users\eduar\onedrive\Área de trabalho\biopark\programas aula\aula_25_08\cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+
+1664812210 source:c:\users\eduar\onedrive\Área de trabalho\biopark\disciplinas\algoritimos e estrutura de dados - leonardo\cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<dos.h>
+	"cinema.h"
+
+1664812103 c:\users\eduar\onedrive\Área de trabalho\biopark\disciplinas\algoritimos e estrutura de dados - leonardo\cinema\cinema.h
+
